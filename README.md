@@ -1,2 +1,2 @@
-# redwood
-Storing cabinet for Redwood Solar assets
+# Redwood Solar
+Storing vault for Redwood Solar digital assets
